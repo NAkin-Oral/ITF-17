@@ -1,1 +1,2 @@
-Register Feature
+if(pass !== confpass)
+print("Two passwords do not match")
