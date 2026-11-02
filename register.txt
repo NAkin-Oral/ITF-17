@@ -1,2 +1,4 @@
 if(pass !== confpass)
 print("Two passwords do not match")
+
+You can use Google Auth As well
