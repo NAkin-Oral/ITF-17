@@ -1,3 +1,4 @@
+
 This app records every user movement
 
 Information on app:
@@ -7,4 +8,4 @@ You register to our app and look for the avaiable cars to choose the best one fo
 
 make sure user enters the correct password
 
-
+add method to print information for the customer about car information 
